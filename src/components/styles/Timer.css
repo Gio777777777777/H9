@@ -1,0 +1,29 @@
+.timer-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.timer-buttons {
+    margin-top: 20px;
+}
+
+.timer-buttons button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #c92727;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.timer-buttons button:hover {
+    background-color: #2cab2e;
+}
+
+h1 {
+    font-size: 36px;
+    color: #000000;
+}
